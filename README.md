@@ -1,4 +1,4 @@
-# KillFrenzy's Avatar Keyboard
+# KillFrenzy's Marker
 The marker from KillFrenzy's Avatar Keyboard: https://github.com/killfrenzy96/KillFrenzyVRCAvatarKeyboard
 
 # Prerequisites
