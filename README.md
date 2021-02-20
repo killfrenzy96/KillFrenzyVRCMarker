@@ -15,7 +15,7 @@ The marker from KillFrenzy's Avatar Keyboard: https://github.com/killfrenzy96/Ki
 5. Move the game object from "Left wrist/Joint_Marker_L" into your own avatar's left wrist. Position this object over the tip of your avatar's left index finger.
 6. Browse to your VRC Avatar Descriptor.
 7. Customize your PlayableLayers.
-8. Insert the animator controller from "Assets/KillFrenzy/Animations/Marker/VRCAC_MarkerControllerFX" into the FX layer. You may use the Action controller version if you are already using the FX layer (or use tools to combine the FX animators).
+8. Insert the animator controller from "Assets/KillFrenzy/Animations/Marker/VRCAC_MarkerControllerFX" into the FX layer. You may use the Action controller version instead if you are already using the FX layer (or use tools to combine the FX animators).
 9. Customize your Expressions.
 10. Insert the VRC Expression Menu from "Assets/KillFrenzy/Animations/Marker/VRCEM_MarkerMenu" into the the Menu.
 11. Insert the VRC Expression Paramaters from "Assets/KillFrenzy/Animations/Marker/VRCEP_MarkerParams" into the the Parameters.
