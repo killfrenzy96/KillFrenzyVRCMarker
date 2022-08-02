@@ -1,3 +1,6 @@
+# No longer supported
+This project is outdated and no longer supported. I may or may not update this marker at some later date depending on demand.
+
 # KillFrenzy's Marker
 The marker from KillFrenzy's Avatar Keyboard: https://github.com/killfrenzy96/KillFrenzyVRCAvatarKeyboard
 
